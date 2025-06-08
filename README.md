@@ -132,3 +132,7 @@ CI/CD Integration: Link GitHub Actions to automatically build, test, and deploy 
 Model Tracking with MLflow: Use MLflow to keep track of different versions of the model, experiments in a simple dashboard.
 
 Deploy your Docker containers using Kubernetes. This helps automatically scale the app based on demand.
+
+GPU Acceleration: Use GPU to speed up training and inference, especially when working with large datasets or complex models.
+
+Data Augmentation: Add more image variations (like flipping, rotating, zooming) during training to make the model more robust and improve accuracy.
