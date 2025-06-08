@@ -124,3 +124,11 @@ Manual Testing: Predictions were tested on sample images using both the UI and A
 Docker Verification: Successful Docker builds and container runs confirmed the reproducibility and correctness of the containerized app.
 
 You can validate that the container is running correctly by visiting http://localhost:8501 for the Streamlit app.
+
+## Potential Improvements
+
+CI/CD Integration: Link GitHub Actions to automatically build, test, and deploy your project each time you push code. This reduces manual effort and ensures consistency.
+
+Model Tracking with MLflow: Use MLflow to keep track of different versions of the model, experiments in a simple dashboard.
+
+Deploy your Docker containers using Kubernetes. This helps automatically scale the app based on demand.
