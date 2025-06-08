@@ -38,28 +38,24 @@ git clone https://github.com/AtharvaSangit/dockerized-fashion-mnist.git
 cd dockerized-fashion-mnist
 ```
 
-### 2. Install Dependencies (For Local Use)
 
-```bash
-pip install -r app/requirements.txt
-```
 
-### 3. Build Docker Image
+### 2. Build Docker Image
 
 ```bash
 cd app
 docker build -t fashion-mnist-app .
 ```
 
-### 4. Run the Docker Container
+### 3. Run the Docker Container
 
 ```bash
 docker run -p 8501:8501 fashion-mnist-app
 ```
 
-### 5. API Usage
+### 4. API Usage
 
-Once the container is running, make a POST request to:
+Once the container is running, open the below link in browser:
 
 ```
 http://localhost:5000/predict
