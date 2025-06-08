@@ -4,7 +4,7 @@ This project provides a dockerized solution for deploying a Fashion MNIST model.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -69,7 +69,7 @@ with a test image file.
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 * **Dataset:** Fashion MNIST
 * **Frameworks Used:** TensorFlow / Keras
