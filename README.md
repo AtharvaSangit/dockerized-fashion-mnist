@@ -67,8 +67,6 @@ http://localhost:5000/predict
 
 with a test image file.
 
----
-
 ## Model Details
 
 * **Dataset:** Fashion MNIST
