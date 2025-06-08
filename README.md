@@ -2,7 +2,7 @@
 
 This project provides a dockerized solution for deploying a Fashion MNIST model. It includes a trained model, an API for predictions, and a Jupyter Notebook for training.
 
----
+
 
 ##  Project Structure
 
@@ -23,7 +23,7 @@ This project provides a dockerized solution for deploying a Fashion MNIST model.
 └── README.md
 ```
 
----
+
 
 ## Setup Instructions
 Prerequisite
